@@ -1,0 +1,8 @@
+- hosts: all
+  become: yes
+
+  vars_files:
+    - vars/vpn.yml
+
+  roles:
+    - { role: 'ansible-role-softether-vpn', tags: 'vpn' }

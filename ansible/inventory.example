@@ -1,0 +1,6 @@
+[server]
+vpn
+
+[server:vars]
+ansible_host=domain.of.your.server
+ansible_user=root

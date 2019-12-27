@@ -1,0 +1,8 @@
+vpn_ipsec_preshared_key: "some.key"
+
+vpn_server_password: "some.server.password"
+
+vpn_users:
+  - name: "some.login"
+    password: "some.password"
+    groups: [users]
