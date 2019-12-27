@@ -1,0 +1,3 @@
+[submodule "ansible/roles/ansible-role-softether-vpn"]
+	path = ansible/roles/ansible-role-softether-vpn
+	url = https://github.com/lda/ansible-role-softether-vpn
