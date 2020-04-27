@@ -29,7 +29,7 @@ cd ansible-playbook-softether-vpn
 
 ## Configure project
 
-### Configure vpn
+### Configure vpn user, password and shared key
 ```
 cp ansible/vars/vpn.yml.example ansible/vars/vpn.yml
 ```
