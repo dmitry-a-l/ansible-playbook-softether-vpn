@@ -31,10 +31,10 @@ cd ansible-playbook-softether-vpn
 
 ### Configure vpn
 ```
-cp ansible/vars/vpn.yml.example ansible/var/vpn.yml
+cp ansible/vars/vpn.yml.example ansible/vars/vpn.yml
 ```
 
-Open `ansible/var/vpn.yml` in your favorite editor and change the values.
+Open `ansible/vars/vpn.yml` in your favorite editor and change the values.
 
 ### Configure hosts file
 ```
